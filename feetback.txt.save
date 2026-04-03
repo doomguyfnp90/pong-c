@@ -1,0 +1,17 @@
+bee;
+
+fix paused bug
+change default score to around 5
+you chooose 1/2 players at the start not end
+randomize starting direction
+
+dave:
+	ai should predict outcome of ball trajectory when ball bounces off wall
+
+	make menu more clear (eg: make the + / - separate not one deskrition
+
+	refure to ai as 1 / 2 players
+
+	faster ball
+	
+	
