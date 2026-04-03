@@ -263,7 +263,7 @@ int main(void)
         // pause 
         if (paused)
         {
-            const char *text_paused = "PAUSED\na to toggle single / multiplayer\n- to decrease paddle speed\n+ to increase paddlespeed\nr to restart game\n1 to decrease winning score winning score\n2 to decrease winning score";
+            const char *text_paused = "PAUSED\na to toggle single / multiplayer\n- to decrease paddle speed\n+ to increase paddlespeed\nr to restart game\n1 to decrease winning score winning score\n2 to increase winning score";
             int w = MeasureText(text_paused, PAUSE_FONT_SIZE);
 
             DrawRectangle(0, PLAY_AREA_TOP, SCREEN_WIDTH, SCREEN_HEIGHT, BLACK);
